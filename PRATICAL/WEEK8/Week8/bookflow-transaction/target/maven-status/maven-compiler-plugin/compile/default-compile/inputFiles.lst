@@ -1,0 +1,14 @@
+C:\Users\bsury\OneDrive\Desktop\DBSE\PRATICAL\WEEK8\Week8\bookflow-transaction\src\main\java\com\bookflow\transaction\BookflowTransactionApplication.java
+C:\Users\bsury\OneDrive\Desktop\DBSE\PRATICAL\WEEK8\Week8\bookflow-transaction\src\main\java\com\bookflow\transaction\controller\InventoryController.java
+C:\Users\bsury\OneDrive\Desktop\DBSE\PRATICAL\WEEK8\Week8\bookflow-transaction\src\main\java\com\bookflow\transaction\controller\OrderController.java
+C:\Users\bsury\OneDrive\Desktop\DBSE\PRATICAL\WEEK8\Week8\bookflow-transaction\src\main\java\com\bookflow\transaction\dto\InventoryRequest.java
+C:\Users\bsury\OneDrive\Desktop\DBSE\PRATICAL\WEEK8\Week8\bookflow-transaction\src\main\java\com\bookflow\transaction\dto\OrderRequest.java
+C:\Users\bsury\OneDrive\Desktop\DBSE\PRATICAL\WEEK8\Week8\bookflow-transaction\src\main\java\com\bookflow\transaction\entity\Inventory.java
+C:\Users\bsury\OneDrive\Desktop\DBSE\PRATICAL\WEEK8\Week8\bookflow-transaction\src\main\java\com\bookflow\transaction\entity\Order.java
+C:\Users\bsury\OneDrive\Desktop\DBSE\PRATICAL\WEEK8\Week8\bookflow-transaction\src\main\java\com\bookflow\transaction\exception\BookNotFoundException.java
+C:\Users\bsury\OneDrive\Desktop\DBSE\PRATICAL\WEEK8\Week8\bookflow-transaction\src\main\java\com\bookflow\transaction\exception\BookOutOfStockException.java
+C:\Users\bsury\OneDrive\Desktop\DBSE\PRATICAL\WEEK8\Week8\bookflow-transaction\src\main\java\com\bookflow\transaction\exception\GlobalExceptionHandler.java
+C:\Users\bsury\OneDrive\Desktop\DBSE\PRATICAL\WEEK8\Week8\bookflow-transaction\src\main\java\com\bookflow\transaction\repository\InventoryRepository.java
+C:\Users\bsury\OneDrive\Desktop\DBSE\PRATICAL\WEEK8\Week8\bookflow-transaction\src\main\java\com\bookflow\transaction\repository\OrderRepository.java
+C:\Users\bsury\OneDrive\Desktop\DBSE\PRATICAL\WEEK8\Week8\bookflow-transaction\src\main\java\com\bookflow\transaction\service\InventoryService.java
+C:\Users\bsury\OneDrive\Desktop\DBSE\PRATICAL\WEEK8\Week8\bookflow-transaction\src\main\java\com\bookflow\transaction\service\OrderService.java
